@@ -65,7 +65,7 @@ export default function Contact() {
             Get In Touch
           </h2>
           <p className="text-gray-400 text-lg">
-            I'm always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
+            I&apos;m always open to discussing new projects, creative ideas, or opportunities to be part of your visions.
           </p>
         </div>
 
@@ -214,7 +214,7 @@ export default function Contact() {
 
             <div className="bg-gradient-to-r from-blue-500/20 to-purple-600/20 backdrop-blur-sm rounded-xl p-6 border border-purple-500/30">
               <p className="text-gray-300 text-center">
-                Always excited to work on interesting projects. Let's build something amazing together! 🚀
+                Always excited to work on interesting projects. Let&apos;s build something amazing together! 🚀
               </p>
             </div>
           </div>
